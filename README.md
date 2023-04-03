@@ -2,7 +2,7 @@
 
 ### Week 1. Learn Docker Basics
 
-####. Mini Project 1: Containerize a Basic Web Application
+#### Mini Project 1: Containerize a Basic Web Application
 
   - [ ] Choose a simple web application (e.g., a static HTML website, a Node.js or Python Flask application)
   - [ ] Create a Dockerfile with the following steps:
